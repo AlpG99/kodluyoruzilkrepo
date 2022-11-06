@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 ![Logo](https://github.com/AlpG99/kodluyoruzilkrepo/blob/main/gaunkodluyoruzpatikadev.png)
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) **GAÜN-Kodluyoruz & Patika.dev Yazılıma Başlangıç Programı**'nda oluşturduğumuz ilk repodur. 
+Bu repo, [Kodluyoruz](https://kodluyoruz.org/) **GAÜN-Kodluyoruz & Patika.dev Yazılıma Başlangıç Programı**'nda oluşturduğumuz ilk repodur. 
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
@@ -11,7 +11,7 @@ git clone https://github.com/AlpG99/kodluyoruzilkrepo.git
 ```
 ## Usage
 Projeyi klonladıktan sonra Visual Studio Code programını açınız.
-Linux/Terminal için:
+*Linux/Terminal için:*
 
 ```
 cd kodluyoruzilkrepo
