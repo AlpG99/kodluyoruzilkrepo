@@ -1,6 +1,8 @@
 # Kodluyoruz İlk Repo
 ![Logo](https://github.com/AlpG99/kodluyoruzilkrepo/blob/main/gaunkodluyoruzpatikadev.png)
 
+Selamlar, ben Alp :)
+
 Bu repo, [Kodluyoruz](https://kodluyoruz.org/) **GAÜN-Kodluyoruz & Patika.dev Yazılıma Başlangıç Programı**'nda oluşturduğumuz ilk repodur. 
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
